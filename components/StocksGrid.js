@@ -6,7 +6,6 @@ import {
 } from 'react-native';
 
 import StocksGridItem from './StocksGridItem';
-import StockDetails from './StockDetails';
 
 export default class StocksGrid extends Component {
     constructor(props) {
